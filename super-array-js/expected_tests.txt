@@ -1,0 +1,7 @@
+push deve adicionar um novo instrutor ao meu super array
+forEach deve passar por todos os instrutores e chamando o callback esperado
+filter deve retornar um novo array apenas com os instrutores que estão dando aula
+map deve retornar um novo array com o numero de nomes que o instrutor tem
+find deve retornar o primeiro instrutor que está dando aula
+reduce deve retornar o total de letras no nome dos instrutores
+reduce deve retornar um boolean se todos os instrutores estão dando aula

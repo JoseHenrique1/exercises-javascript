@@ -1,0 +1,5 @@
+Deve filtrar as series com ano de estreia maior ou igual a 2010 e retornar uma listagem com os nomes
+Deve retornar true ao procurar ator que está em elenco
+Deve retornar false ao procurar ator que não participa de elenco
+Deve calcular corretamente a media total de episódios de todas as series
+Deve agrupar corretamente em um objeto os titulos das series baseado na Distribuidora

@@ -1,0 +1,5 @@
+Ao somar 5 e 2 deve retornar 7
+Ao subtrair 2 de 100 deve retornar 98
+Ao multiplicar 100 por 10 deve retornar 1000
+Ao dividir 45 por 9 deve retornar 5
+Ao passar uma operacao inválida deve retornar operaçao inválida

@@ -1,0 +1,1 @@
+export { calculadora, OPERACAO_INVALIDA } from './calculadora'

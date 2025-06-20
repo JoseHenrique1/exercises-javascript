@@ -1,0 +1,10 @@
+[
+  { "nome": "Fabio Junqueira", "dandoAula": false },
+  { "nome": "Pablo Oliveira", "dandoAula": false },
+  { "nome": "Sergio Andrade", "dandoAula": false },
+  { "nome": "Gustavo Büttenbender Rodrigues", "dandoAula": true },
+  { "nome": "William Cardozo", "dandoAula": true },
+  { "nome": "Diandra Rocha", "dandoAula": false },
+  { "nome": "Rafael Zorzanelo", "dandoAula": false },
+  { "nome": "Victor Herzog Damke", "dandoAula": false }
+]
